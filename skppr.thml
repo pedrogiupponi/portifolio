@@ -1,0 +1,494 @@
+
+<!doctype html>
+<html lang="en-US" class="no-js">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="icon" href="https://eimigrante.pt/pt/wp-content/themes/ei/img/ei.ico">
+	<link rel="profile" href="http://gmpg.org/xfn/11">
+	<title>A Eimigrante &#8211; Ei! Assessoria Migratória</title>
+<meta name='robots' content='max-image-preview:large' />
+<link rel='dns-prefetch' href='//www.google.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://eimigrante.pt/pt/wp-includes/css/dist/block-library/style.min.css?ver=5.7.12' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='https://eimigrante.pt/pt/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.4' type='text/css' media='all' />
+<link rel='stylesheet' id='ei-fonts-css'  href='https://fonts.googleapis.com/css?family=Rubik:300,400,500,700' type='text/css' media='all' />
+<link rel='stylesheet' id='ei-style-css'  href='https://eimigrante.pt/pt/wp-content/themes/ei/css/global.css?ver=1716983299' type='text/css' media='all' />
+<link rel='stylesheet' id='ei-slick-style-css'  href='https://eimigrante.pt/pt/wp-content/themes/ei/js/slick/slick.css?ver=1473766332' type='text/css' media='all' />
+<script type='text/javascript' src='https://eimigrante.pt/pt/wp-includes/js/jquery/jquery.min.js?ver=3.5.1' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://eimigrante.pt/pt/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
+<script type='text/javascript' src='https://eimigrante.pt/pt/wp-content/themes/ei/js/jquery.scrollTo.min.js?ver=1443088090' id='ei-jQueryScrollTo-js'></script>
+<script type='text/javascript' src='https://eimigrante.pt/pt/wp-content/themes/ei/js/jquery.mousewheel.min.js?ver=1459777624' id='ei-jQueryMouseWheel-js'></script>
+<script type='text/javascript' src='https://eimigrante.pt/pt/wp-content/themes/ei/js/jqc.js?ver=1478619561' id='ei-jQueryCookie-js'></script>
+<script type='text/javascript' src='https://eimigrante.pt/pt/wp-content/themes/ei/js/slick/slick.js?ver=1473766332' id='ei-slick-js'></script>
+<script type='text/javascript' src='https://eimigrante.pt/pt/wp-content/themes/ei/js/global.js?ver=1617036718' id='ei-script-js'></script>
+<link rel="canonical" href="https://eimigrante.pt/pt/a-eimigrante/" />
+<link rel='shortlink' href='https://eimigrante.pt/pt/?p=12' />
+</head>
+<body>
+	
+
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-113260224-1"></script>
+<script>
+ window.dataLayer = window.dataLayer || [];
+ function gtag(){dataLayer.push(arguments);}
+ gtag('js', new Date());
+
+ gtag('config', 'UA-113260224-1');
+</script>
+<script src="https://www.reputationdatabase.com/website_marketing/show_popup_widget/RK-37508-39290-5023-v2.js"></script>
+<script src="https://www.reputationdatabase.com/website_marketing/retargeting_pixel/RK-37508-39290-5023-v2.js"></script>
+		<header class="intHeader" style="background-image:url('https://eimigrante.pt/pt/wp-content/themes/ei/img/content/eimigrante01-about.jpg')">
+				<a href="https://eimigrante.pt/pt/" class="mainLogo"><img src="https://eimigrante.pt/pt/wp-content/themes/ei/img/ei_logo_pt.png" alt="Ei! Assessoria migratória"></a>
+			<div class="textHeader">
+				<h1 class="extraText">Ei! migrant consulting</h1> 
+				<h2 class="mainTitle">A Ei!</h2> 
+				<h3 class="title">Missão</h3>
+				<h4 class="subTitle">Tornar a vida mais fácil a quem pretende entrar ou sair de Portugal</h4>
+				<p class="text">Na sequencia das necessidades geradas pela mobilidade geográfica dos dias de hoje, a Ei! tem como objectivo facilitar a vida a todos os que decidam procurar novos desafios.</p>
+				<p class="linkText">Conheça-nos melhor.</p>
+				<a href="#" class="linkBtn" id="moreAboutUsBtn">Mais sobre nós</a><a href="/en" class="langLink">in english</a>
+			</div>
+					<nav class="mainNav">
+							<a href="#" class="mainNavLink"><h2>menu</h2><span class="icon-menu"></span></a>
+				<a href="#" class="mainNavClose"><span class="mainNavCloseText">fechar menu</span><span class="icon-cross"></span></a>
+							<div class="mainNavMenu">
+								<ul>
+					<li><a href="http://eimigrante.pt/pt/">Home</a></li><li><a href="https://eimigrante.pt/pt/a-eimigrante/">A Ei!</a></li><li><a href="https://eimigrante.pt/pt/servicos/">Serviços</a></li><li><a href="#contactus">Contacte-nos</a></li><li class="langItem"><a href="/en" class="langLinkItem">in english</a></li>				</ul>
+			</div>
+		</nav>
+		
+		<a href="#contactus" class="chatLink chatLinkPT chatLinkOn"><img src="https://eimigrante.pt/pt/wp-content/themes/ei/img/content/chat.jpg"><span class="chatLinkText">Precisa de ajuda? Fale connosco.</span></a>	</header>
+	<main>
+			<section class="team container"  style="padding-bottom:90px!important;">
+			<p  class="text">Estamos aqui para si</p>
+			<h3 class="title">Conheça a nossa equipa!</h3>
+			<div class="teamBox">
+			
+				<ul class="teamContentList">
+					<li class="teamContentListCEO">
+						<img src="https://eimigrante.pt/pt/wp-content/themes/ei/img/content/team/gilda-pereira-foto.png" alt="Gilda Pereira">
+						<h4>
+							<span>Gilda Pereira</span><span class="teamcargo">CEO - Founder</span><br>
+							A Gilda é licenciada em Direito e pós-graduada em gestão de pequenas e médias empresas. Foi pela sua experiencia pessoal como emigrante e pela sua paixão por migrações que decidiu fundar a Ei! — a primeira agência migratória em Portugal no ano de 2014. A empresa nasceu do seu desejo de facilitar a vida a todos aqueles que decidem mudar para outro país. Defensora dos seus clientes e dos seus direitos fora da sua terra natal, a CEO da Ei! procura inovar diariamente para apresentar as melhores soluções, tendo em conta cada caso concreto, o que faz da Ei! uma agência cuja taxa de sucesso é muito próxima dos 100%.
+						</h4>
+					</li>
+				</ul>
+				<div class="secondteam">
+					<p class="title">Finance</p>
+					<ul class="teamContentList">
+						<li>
+							<img src="https://eimigrante.pt/pt/wp-content/themes/ei/img/content/team/Leonor Cabrita.png" alt="Leonor Cabrita">
+							<h4><span>Leonor Cabrita</span><span class="teamcargo">Financial and Quality Controller</span>A Leonor é licenciada e mestre em Engenharia Civil e é pós-graduada em Finanças e Controlo Empresarial. Dirige o departamento financeiro da Ei! e lida com os processos de pagamento das empresas e clientes individuais. Tendo experiência na organização de empresas, também procura implementar procedimentos e métodos que promovam uma maior eficiência interna e, consequentemente, um melhor serviço aos clientes da Ei!. </h4>
+						</li>
+					</ul>
+				</div>
+				<div class="secondteam">
+					<p class="title">Legal</p>
+					<p class="text">O Departamento Jurídico da Ei! , acumula anos de experiência jurídica, repartidos por diversas áreas de atuação, para dar todo o suporte ao processo migratório</p>
+					<ul class="teamContentList">
+						<li>
+							<img src="https://eimigrante.pt/pt/wp-content/themes/ei/img/content/team/Filipa Abreu.png" alt="Filipa Abreu">
+							<h4><span>Filipa Abreu</span><span class="teamcargo">Head of Legal Department</span>Filipa Abreu, natural da Ilha da Madeira, é advogada, pós-graduada em Direito Migratório e mestranda em Direito Internacional e Relações Internacionais. Desde 2021 que coordena o departamento jurídico da Ei!.</h4>
+						</li>
+						<li>
+							<img src="https://eimigrante.pt/pt/wp-content/themes/ei/img/content/team/Claudia Branco.png" alt="Cláudia Branco">
+							<h4><span>Cláudia Branco</span><span class="teamcargo">Head of Oporto Office</span>Claudia Branco, advogada, mestranda em Ciências Jurídico Forenses. Está na Ei! desde 2017 e é a coordenadora do nosso escritório na cidade do Porto.	</h4>
+						</li>
+						<li>
+							<img src="https://eimigrante.pt/pt/wp-content/themes/ei/img/content/team/Renata Monteiro.png" alt="Renata Monteiro">
+							<h4><span>Renata Monteiro</span><span class="teamcargo">Migration Consultant</span>Renata Monteiro, natural do Brasil, advogada, pós-graduada em Direito Ambiental e Urbanístico, integra o Departamento legal do nosso escritório da cidade do Porto desde 2021.</h4>
+						</li>
+						<li>
+							<img src="https://eimigrante.pt/pt/wp-content/themes/ei/img/content/team/Carolina Cruz.png" alt="Carolina Cruz">
+							<h4><span>Carolina Cruz</span><span class="teamcargo">Migration Consultant</span>Carolina Cruz, natural do Brasil, historiadora, advogada, mestre em Direito Internacional e Relações Internacionais e doutoranda em História do Direito. Desde o ano de 2021 que integra o Departamento Legal do escritório localizado em Lisboa.</h4>
+						</li>
+						<li>
+							<img src="https://eimigrante.pt/pt/wp-content/themes/ei/img/content/team/CarolinaMachado.png" alt="Carolina Machado">
+							<h4><span>Carolina Machado</span><span class="teamcargo">Migration Consultant</span>Carolina Machado é advogada e mestranda em Ciências Jurídico-Forenses. Passou a integrar o Departamento Legal na sede da empresa em Lisboa em 2023.	</h4>
+						</li>
+						<li>
+							<img src="https://eimigrante.pt/pt/wp-content/themes/ei/img/content/team/Luciana Zettel.png" alt="Luciana Zettel">
+							<h4><span>Luciana Zettel</span><span class="teamcargo">Migration Consultant</span>A Luciana é natural do Brasil, advogada no Brasil e em Portugal e faz parte da equipa jurídica da Ei!. A Luciana faz parte da empresa desde 2021. </h4>
+						</li>
+					</ul>
+				</div>
+				<div class="secondteam">
+					<p class="title">Visa</p>
+					<p class="text">Na Ei! Assessoria Migratória o nosso Departamento de Vistos está direcionado para o cliente individual que procura imigrar para Portugal, e para isto pode estar inerente uma panóplia de objetivos como para investimento, estudo, procura de trabalho ou simplesmente procurar melhorar a qualidade de vida.</p>
+					<ul class="teamContentList">
+						<li>
+							<img src="https://eimigrante.pt/pt/wp-content/themes/ei/img/content/team/Carolina Cunha.png" alt="Carolina Cunha">
+							<h4><span>Carolina Cunha</span><span class="teamcargo">Head of Visa Department</span>A Carolina é licenciada em Direito e dirige o departamento de vistos particulares, nomeadamente vistos D7 e vistos D8 Nómada Digital. Acompanha os clientes durante todo o processo migratório, desde o primeiro momento delineando a estratégia até receberem o seu visto. A sua experiência anterior na área do Direito permite-lhe desenvolver estratégias que asseguram ao cliente um processo calmo, o menos burocrático possível e com ótimos resultados.</h4>
+						</li>
+						<li>
+							<img src="https://eimigrante.pt/pt/wp-content/themes/ei/img/content/team/Mariane Sato.png" alt="Mariane Sato">
+							<h4><span>Mariane Sato</span><span class="teamcargo">Migration Consultant</span>A Mariane é do Brasil, tem formação jurídica e está no departamento de vistos. Trabalhou no Consulado de Portugal em Londres durante dois anos e usa essa experiência na sua comunicação com os consulados assim como para delinear os planos migratórios para os seus clientes. Integra ainda o Departamento do Legal assessorando os clientes nos processo de Autorização de Residência. </h4>
+						</li>
+						<li>
+							<img src="https://eimigrante.pt/pt/wp-content/themes/ei/img/content/team/Diana Arias.png" alt="Diana Arias">
+							<h4><span>Diana Arias</span><span class="teamcargo">Migration Consultant</span>A Diana é da Colômbia, tem formação jurídica e é mestre em Recursos Humanos. Pertence ao departamento de vistos, onde a sua experiência no mercado latino-americano é valorizada e considerada uma vantagem no acompanhamento dos clientes durante o seu processo migratório. </h4>
+						</li>
+						<li>
+							<img src="https://eimigrante.pt/pt/wp-content/themes/ei/img/content/team/MarinaHenriques.png" alt="Mariana Henriques">
+							<h4><span>Mariana Henriques</span><span class="teamcargo">Migration Consultant</span>A Mariana é licenciada em Ciência Política e Relações Internacionais e está a tirar mestrado em Migrações. Faz parte da equipa de vistos particulares da Ei! — onde a sua formação, aleada à sua experiência no contacto direto com o cliente é posta em prática diariamente. </h4>
+						</li>
+						<li>
+							<img src="https://eimigrante.pt/pt/wp-content/themes/ei/img/content/team/SaraSantos.png" alt="Sara Santos">
+							<h4><span>Sara Santos</span><span class="teamcargo">Migration Consultant</span>A Sara é formada em Relações Internacionais e integra o departamento de vistos particulares. Estagiou no Conselho Português para os Refugiados e utiliza esta experiência no seu trabalho diário, tanto no contacto com os clientes, como para o delineamento da estratégia dos processos migratórios.</h4>
+						</li>
+					</ul>
+				</div>
+				<div class="secondteam">
+					<p class="title">Corporate</p>
+					<p class="text">Na Ei! Assessoria Migratória o nosso Departamento Corporate (ou Departamento de Soluções de Imigração Corporativa) é especializado em facilitar a migração de talentos globais para Portugal. O nosso departamento está empenhado em ajudar as empresas a contratar talentos internacionais, assegurando um processo de imigração eficiente para as empresas que procuram prosperar no mercado português recorrendo ao talento além-fronteiras.</p>
+					<ul class="teamContentList">
+						<li>
+							<img src="https://eimigrante.pt/pt/wp-content/themes/ei/img/content/team/Ligia Andrade.png" alt="Lígia Andrade">
+							<h4><span>Lígia Andrade</span><span class="teamcargo">Head of Corporate Department</span>Lígia Andrade, possui dupla nacionalidade, angolana e portuguesa. Lidera o departamento Corporate desde 2021. Possui mestrado em Gestão Internacional e especialização em Global Mobility. Responsável pelos vistos e solicitação de documentos daqueles que vem trabalhar em Portugal. Com muita experiência na função a qual desempenha, acompanha com diligência o início dos processos migratórios e auxilia os nossos clientes como tudo que for necessário para sucesso desse procedimento.</h4>
+						</li>
+					</ul>
+				</div>
+				<div class="secondteam">
+					<p class="title">Relocation</p>
+					<ul class="teamContentList">
+						<li>
+							<img src="https://eimigrante.pt/pt/wp-content/themes/ei/img/content/team/Carla Carvalho.png" alt="Carla Carvalho">
+							<h4><span>Carla Carvalho</span><span class="teamcargo">Relocation Manager</span>A Carla é licenciada em educação e pós-graduada em Assessoria Empresarial e está na Ei desde o início da empresa. Dirige o departamento de Relocation de Lisboa — responsável pela procura de casa, troca de carta de condução, obtenção do número de utente, do atestado de residência, assim como do cartão de saúde europeu de saúde, sem esquecer a inscrição nas escolas e faculdades.</h4>
+						</li>
+						<li>
+							<img src="https://eimigrante.pt/pt/wp-content/themes/ei/img/content/team/Ana Motta.png" alt="Ana Motta">
+							<h4><span>Ana Motta</span><span class="teamcargo">Relocation Manager</span>A Ana nasceu no Brasil, é formada em Saúde e estuda solicitadoria. Neste momento é a responsável pelo departamento de Relocation do Porto, onde a procura de casa é o serviço mais requisitado. Lida diariamente com agências imobiliárias onde os seus conhecimentos de solicitadoria são uma grande vantagem.</h4>
+						</li>
+						<li>
+							<img src="https://eimigrante.pt/pt/wp-content/themes/ei/img/content/team/Carolina Muralha.png" alt="Carolina Muralha">
+							<h4><span>Carolina Muralha</span><span class="teamcargo">Relocation Assistant</span>A Carolina pertence ao departamento de Relocation de Lisboa e é licenciada em jornalismo. A sua formação e a experiência na área são uma mais-valia na comunicação com os clientes, assim como com as diferentes entidades com que trabalha diariamente.</h4>
+						</li>
+						<li>
+							<img src="https://eimigrante.pt/pt/wp-content/themes/ei/img/content/team/Hivana Luna.png" alt="Hivana Luna">
+							<h4><span>Hivana Luna</span><span class="teamcargo">Relocation Assistant</span>A Hivana é natural do Brasil e licenciou-se em Letras e Linguística. Tem experiência em tradução e na área comercial, onde trabalhou durante 8 anos. Neste momento, aplica todos os seus conhecimentos no departamento de Relocation do Porto.</h4>
+						</li>
+					</ul>
+				</div>
+				<div class="secondteam">
+					<p class="title">Tax</p>
+					<ul class="teamContentList">
+						<li>
+							<img src="https://eimigrante.pt/pt/wp-content/themes/ei/img/content/team/Andreia Pinto.png" alt="Andreia Pinto">
+							<h4><span>Andreia Pinto</span><span class="teamcargo">Tax Consultant</span>A Andreia é mestre em Direito fiscal. Fez diversas experiências de voluntariado antes de se tornar a responsável pelo departamento Tax da Ei!, coordenando com os outros departamentos as alterações/impactos fiscais dos clientes.</h4>
+						</li>
+						<li>
+							<img src="https://eimigrante.pt/pt/wp-content/themes/ei/img/content/team/eimigrante-pedro-franco.jpg" alt="Pedro Franco">
+							<h4><span>Pedro Franco</span><span class="teamcargo">Tax accountant / CPA</span>O Pedro é um consultor fiscal experiente com um forte enfoque nas áreas financeira e fiscal, oferecendo um suporte personalizado em matéria fiscal internacional.<br>Especialista em fiscalidade ao nível das pessoas singulares, o Pedro possui um profundo conhecimento em legislação fiscal internacional garantindo soluções estratégicas que visam a otimização fiscal.</h4>
+						</li>
+					</ul>
+				</div>
+				<div class="secondteam">
+					<p class="title">Administrative</p>
+					<ul class="teamContentList">
+						<li>
+							<img src="https://eimigrante.pt/pt/wp-content/themes/ei/img/content/team/Daniela Sousa.png" alt="Daniela Sousa">
+							<h4><span>Daniela Sousa</span><span class="teamcargo">Administrative</span>A Daniela é formada em Tradução e Interpretação e é a assistente administrativa da Ei!. Recorre diariamente aos seus recursos académicos, assim como à sua vasta experiência em atendimento ao público, para proporcionar uma comunicação célere e eficaz para acolher os clientes.</h4>
+						</li>
+					</ul>
+				</div>
+				<footer>
+					<p class="title">Somos uma sólida equipa de proﬁssionais com conhecimentos técnicos especializados e vasta experiência em consultoria migratória na área das migrações.</p>
+					<p class="text">Sabemos que planear a mudança de vida e de país não é fácil, por isso estamos aqui para o ajudar. </p>
+					<a href="#contactus" class="linKTeamBtn">Contacte-nos</a>
+				</footer>
+				<div style="margin-top: 60px!important;width: 100%;margin: 0 auto;display: block;max-width: 1000px;">
+					<div class="video-container">
+					
+						<iframe class="video" src="https://www.youtube.com/embed/SQVpNgAtLJE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+					</div> 
+				</div> 
+				
+				
+			</div>
+		</section>
+				<section class="stats">
+			<div class="container">
+									<h3 class="title">Venha ser parte do nosso sucesso!</h3>
+					<p class="text">Desde 2014 que assessoramos migrantes vindos de diferentes partes do Mundo.</p>
+					<ul class="statsList">
+						<li class="statsListItem">
+							<span class="icon-file statsListIcon"></span>
+							<h4><span>98%</span> taxa de sucesso nos pedidos de obtenção de visto e de autorização de residência</h4>
+							<p class="text"></p>
+						</li>
+						<li class="statsListItem">
+							<span class="icon-ppl statsListIcon"></span>
+							<h4><span>+10.000</span>clientes felizes</h4>
+							<p class="text">Assessorámos estudantes, homens de negócios, investidores, reformados, investigadores, viajantes,</p>
+						</li>
+						<li class="statsListItem">
+							<span class="icon-world statsListIcon"></span>
+							<h4><span>+46</span> nacionalidades diferentes</h4>
+							<p class="text">Brasil, Angola, China, EUA, Austrália, Israel, Moçambique, Coreia do Sul, Japão e muito mais</p>
+						</li>
+						<li class="statsListItem">
+							<span class="icon-heart statsListIcon"></span>
+							<h4><span>2.500</span> famílias unidas</h4>
+							<p class="text">através do reagrupamento familiar de pessoas com  autorização de residência em Portugal ou membros da UE.</p>
+						</li>
+					</ul>
+								</div>
+		</section>
+						<div class="bannerServices">
+			<div class="container">
+									<a href="/"><img src="https://eimigrante.pt/pt/wp-content/themes/ei/img/ei_logo_pt_interior.png" alt="Ei! assessoria migratória"></a>
+					<p class="textIntro">Pronto para mudar a sua vida?</p>
+					<p class="title">Veja como podemos ajudar</p>
+					<p class="text">Estamos ao seu lado desde o primeiro dia da mudança. Oferecemos serviços diferenciados, prestados através de um gestor de cliente individual que, de forma personalizada e conﬁdencial, dá resposta às mais diversas questões.</p>
+					<a href="/pt/servicos" class="bannerServicesLink">Vamos?</a>
+								</div>
+		</div>
+
+	</main>
+	<script>
+		var lastScrollAmount;
+		var countScroll=0;
+		var isScrolling=false;
+
+		var scrollTimeoutHandler=null;
+		var mainTeamContentTimeoutHandler=null;
+
+		function doScroll(pos){
+			if (scrollTimeoutHandler!=null){
+				clearTimeout(scrollTimeoutHandler);
+			}
+			if (pos!=-1){
+				scrollTimeoutHandler=setTimeout("doScrollImpl("+pos+")",1);
+			}
+			
+
+		}
+
+		function doScrollImpl(pos){
+			isScrolling=true;
+			scrollTimeoutHandler=null;
+			jQuery(window).scrollTo(pos,300,function(e){
+				isScrolling=false;
+			});
+			
+		}
+
+		function advanceTeamContent(){
+			var $=jQuery;
+			var e=$(".teamMenu li a.currentTeamMember").closest("li").next("li").find("a").first();
+			if (e.size()==0){
+				e=$(".teamMenu li a").first();
+			}
+			e.click();
+			mainTeamContentTimeoutHandler=setTimeout("advanceTeamContent()",3000);	
+		}
+
+
+		jQuery(function($) {
+			/*
+			mainTeamContentTimeoutHandler=setTimeout("advanceTeamContent()",3000);
+			$(".teamBox").mouseenter(function(event){
+				clearTimeout(mainTeamContentTimeoutHandler);
+				mainTeamContentTimeoutHandler=null;
+			});
+			$(".teamBox").mouseleave(function(event){
+				mainTeamContentTimeoutHandler=setTimeout("advanceTeamContent()",3000);	
+			});
+			*/
+
+			$(".teamMenu li a").click(function(event){
+				$(".teamBox").addClass("openTeam");
+				var slideIndex = $(this).closest("li").index();
+				$(this).addClass("currentTeamMember").closest("li").siblings("li").find("a").removeClass("currentTeamMember");
+				$(".mainTeamContent").slick("slickGoTo", slideIndex, false)
+				return false;
+			});
+			
+			$(".mainTeamContent").slick({
+					arrows: false, 
+					dots: true,
+					infinite: false, 
+					speed: 250,
+					fade: true,
+					cssEase: "linear",
+					responsive: [{
+
+					  breakpoint: 660,
+					  settings: "unslick"
+
+					}]
+			});
+			
+			$(".newsSlider").slick({
+					arrows: false, 
+					dots: true,
+					infinite: false, 
+					
+					responsive: [{
+
+					  breakpoint: 980,
+					  settings: "unslick"
+
+					}]
+			});
+			$(".statsList").slick({
+					arrows: false, 
+					dots: true,
+					infinite: false, 
+					mobileFirst:true,
+					
+					responsive: [{
+
+					  breakpoint: 980,
+					  settings: "unslick"
+
+					}]
+			});
+
+			$(".linkMoreInfo").click(function(event){
+				$(this).hide();
+				$(this).next(".textBox").show();
+				return false;
+			});
+
+			lastScrollAmount=$(window).scrollTop();
+
+			$(window).bind("mousewheel", function(event){
+				if (isScrolling) return;
+				var targetHeight=$("header").outerHeight();
+				var scroll=$(this).scrollTop();
+				var direction=event.deltaY < 0 ? 1 : -1;
+				if (scroll>=0 && scroll<targetHeight && direction==1){
+					doScroll(targetHeight);
+				}else if (scroll>=0 && scroll<=targetHeight && direction==-1){
+					doScroll(0);
+				}else{
+					doScroll(-1);
+				}
+				lastScrollAmount=$(this).scrollTop();
+			});
+
+			$("#moreAboutUsBtn").click(function(event){
+				event.preventDefault();
+				$(window).scrollTo($("main"),300);
+			})
+
+		});
+	</script>
+
+	<footer class="mainFooter">
+		<div class="footerContact">
+			<div class="contactFormBox">
+										<h2 class="title">Quer falar connosco? Ótimo!</h2>
+						<p class="text">Ficamos felizes por vos conseguir ajudar! <p>
+						<a href="#contactus" class="linkBtn openFormBtn">Contacte-nos.</a>
+										
+				<div class="contactForm">
+					<div class="contactFormStep1">
+											<div role="form" class="wpcf7" id="wpcf7-f742-o1" lang="en-US" dir="ltr">
+<div class="screen-reader-response"><p role="status" aria-live="polite" aria-atomic="true"></p> <ul></ul></div>
+<form action="/pt/a-eimigrante/#wpcf7-f742-o1" method="post" class="wpcf7-form init" novalidate="novalidate" data-status="init">
+<div style="display: none;">
+<input type="hidden" name="_wpcf7" value="742" />
+<input type="hidden" name="_wpcf7_version" value="5.4" />
+<input type="hidden" name="_wpcf7_locale" value="en_US" />
+<input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f742-o1" />
+<input type="hidden" name="_wpcf7_container_post" value="0" />
+<input type="hidden" name="_wpcf7_posted_data_hash" value="" />
+<input type="hidden" name="_wpcf7_recaptcha_response" value="" />
+</div>
+<p><span class="wpcf7-form-control-wrap your-name"><input type="text" name="your-name" value="" size="40" maxlength="140" minlength="10" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="O seu nome*" /></span></p>
+<p><span class="wpcf7-form-control-wrap your-email"><input type="email" name="your-email" value="" size="40" maxlength="140" minlength="10" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false" placeholder="Email*" /></span> </label></p>
+<p><span class="wpcf7-form-control-wrap your-telephone"><input type="tel" name="your-telephone" value="" size="40" maxlength="14" minlength="9" class="wpcf7-form-control wpcf7-text wpcf7-tel wpcf7-validates-as-required wpcf7-validates-as-tel" aria-required="true" aria-invalid="false" placeholder="Telefone*" /></span></p>
+<p><span class="wpcf7-form-control-wrap your-country"><input type="text" name="your-country" value="" size="40" maxlength="30" minlength="4" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="País*" /></span></p>
+<p><span class="wpcf7-form-control-wrap your-profile"><select name="your-profile" class="wpcf7-form-control wpcf7-select wpcf7-validates-as-required" aria-required="true" aria-invalid="false"><option value="Perfil*">Perfil*</option><option value="Profissional">Profissional</option><option value="Reformado">Reformado</option><option value="Investidor">Investidor</option><option value="Português">Português</option><option value="Estudante">Estudante</option><option value="Prefiro não responder">Prefiro não responder</option></select></span></p>
+<p><span class="wpcf7-form-control-wrap your-message"><textarea name="your-message" cols="40" rows="10" maxlength="300" minlength="10" class="wpcf7-form-control wpcf7-textarea wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="Mensagem*"></textarea></span> </label></p>
+<p class="formNote">* campos obrigatórios</p>
+<p><input type="submit" value="Enviar" class="wpcf7-form-control wpcf7-submit formBnt" /></p>
+<div class="wpcf7-response-output" aria-hidden="true"></div></form></div>										</div>
+				</div>
+				
+			</div>
+			
+			<div class="contactInfo">
+									<p><span>Lisboa</span> 
+					<a href="https://www.google.pt/maps/place/R.+Castilho+44,+1250-071+Lisboa" target="_blank">Rua Castilho, 44, 3º Piso<br>
+					1250-071 Lisboa</a><br><br>
+					<a href="tel:+351217960436">+351 217 960 436</a><br>
+					<a href="mailto:geral@eimigrante.pt">geral@eimigrante.pt</a><br>
+					</p>
+					<p><span>Porto</span> 
+					<a href="https://www.google.pt/maps/place/R.+Feliciano+de+Castilho+66,+4150-389+Porto/" target="_blank">Rua Feliciano de Castillo 66<br>
+					4000-293 Porto</a><br><br>
+					<a href="tel:+351217960436">+351 217 960 436</a><br>
+					<a href="mailto:geral@eimigrante.pt">geral@eimigrante.pt</a><br>
+					</p>
+								</div>
+
+		</div>
+				<ul class="footerMenu">
+			<li><a href="http://eimigrante.pt/pt/">Home</a></li><li><a href="https://eimigrante.pt/pt/a-eimigrante/">A Ei!</a></li><li><a href="https://eimigrante.pt/pt/servicos/">Serviços</a></li><li><a href="#contactus">Contacte-nos</a></li>		</ul>
+		<ul class="social">
+			<li><a href="https://www.facebook.com/eimigrante" class="icon-facebook" target="_blank"><span class="extraText">Facebook</span></a></li>
+			<li><a href="https://www.linkedin.com/company/eimigrante" class="icon-linkedin" target="_blank"><span class="extraText">Linkedin</span></a></li>
+			<li><a href="https://instagram.com/eimigrante/" class="icon-instagram" target="_blank"><span class="extraText">Instagram</span></a></li>
+			<li><a href="https://www.youtube.com/channel/UCG7jAByu9ZtPvaZk-CdEh4w/" class="icon-youtube" target="_blank"><span class="extraText">Youtube</span></a></li>
+			<!--li><a href="https://www.youtube.com/channel/UCG7jAByu9ZtPvaZk-CdEh4w/" class="icon-youtube-alt" target="_blank"><span class="extraText">Youtube</span></a></li-->
+		</ul>
+		<p><small>© Copyright Ei! - 2025</small> 
+		
+					<a href="http://www.oceanlab.pt" target="_blank" class="devLink">Desenvolvido por Oceanlab</a> <a href="/pt/politica-de-privacidade-e-protecao-de-dados/" class="devLink">Política de Privacidade</a>
+				
+		</p>
+	</footer>
+
+<script type='text/javascript' src='https://eimigrante.pt/pt/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=7.4.4' id='wp-polyfill-js'></script>
+<script type='text/javascript' id='wp-polyfill-js-after'>
+( 'fetch' in window ) || document.write( '<script src="https://eimigrante.pt/pt/wp-includes/js/dist/vendor/wp-polyfill-fetch.min.js?ver=3.0.0"></scr' + 'ipt>' );( document.contains ) || document.write( '<script src="https://eimigrante.pt/pt/wp-includes/js/dist/vendor/wp-polyfill-node-contains.min.js?ver=3.42.0"></scr' + 'ipt>' );( window.DOMRect ) || document.write( '<script src="https://eimigrante.pt/pt/wp-includes/js/dist/vendor/wp-polyfill-dom-rect.min.js?ver=3.42.0"></scr' + 'ipt>' );( window.URL && window.URL.prototype && window.URLSearchParams ) || document.write( '<script src="https://eimigrante.pt/pt/wp-includes/js/dist/vendor/wp-polyfill-url.min.js?ver=3.6.4"></scr' + 'ipt>' );( window.FormData && window.FormData.prototype.keys ) || document.write( '<script src="https://eimigrante.pt/pt/wp-includes/js/dist/vendor/wp-polyfill-formdata.min.js?ver=3.0.12"></scr' + 'ipt>' );( Element.prototype.matches && Element.prototype.closest ) || document.write( '<script src="https://eimigrante.pt/pt/wp-includes/js/dist/vendor/wp-polyfill-element-closest.min.js?ver=2.0.2"></scr' + 'ipt>' );( 'objectFit' in document.documentElement.style ) || document.write( '<script src="https://eimigrante.pt/pt/wp-includes/js/dist/vendor/wp-polyfill-object-fit.min.js?ver=2.3.4"></scr' + 'ipt>' );
+</script>
+<script type='text/javascript' src='https://eimigrante.pt/pt/wp-includes/js/dist/hooks.min.js?ver=d0188aa6c336f8bb426fe5318b7f5b72' id='wp-hooks-js'></script>
+<script type='text/javascript' src='https://eimigrante.pt/pt/wp-includes/js/dist/i18n.min.js?ver=6ae7d829c963a7d8856558f3f9b32b43' id='wp-i18n-js'></script>
+<script type='text/javascript' id='wp-i18n-js-after'>
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+</script>
+<script type='text/javascript' src='https://eimigrante.pt/pt/wp-includes/js/dist/vendor/lodash.min.js?ver=4.17.21' id='lodash-js'></script>
+<script type='text/javascript' id='lodash-js-after'>
+window.lodash = _.noConflict();
+</script>
+<script type='text/javascript' src='https://eimigrante.pt/pt/wp-includes/js/dist/url.min.js?ver=7c99a9585caad6f2f16c19ecd17a86cd' id='wp-url-js'></script>
+<script type='text/javascript' id='wp-api-fetch-js-translations'>
+( function( domain, translations ) {
+	var localeData = translations.locale_data[ domain ] || translations.locale_data.messages;
+	localeData[""].domain = domain;
+	wp.i18n.setLocaleData( localeData, domain );
+} )( "default", { "locale_data": { "messages": { "": {} } } } );
+</script>
+<script type='text/javascript' src='https://eimigrante.pt/pt/wp-includes/js/dist/api-fetch.min.js?ver=25cbf3644d200bdc5cab50e7966b5b03' id='wp-api-fetch-js'></script>
+<script type='text/javascript' id='wp-api-fetch-js-after'>
+wp.apiFetch.use( wp.apiFetch.createRootURLMiddleware( "https://eimigrante.pt/pt/wp-json/" ) );
+wp.apiFetch.nonceMiddleware = wp.apiFetch.createNonceMiddleware( "cab01efc5a" );
+wp.apiFetch.use( wp.apiFetch.nonceMiddleware );
+wp.apiFetch.use( wp.apiFetch.mediaUploadMiddleware );
+wp.apiFetch.nonceEndpoint = "https://eimigrante.pt/pt/wp-admin/admin-ajax.php?action=rest-nonce";
+</script>
+<script type='text/javascript' id='contact-form-7-js-extra'>
+/* <![CDATA[ */
+var wpcf7 = [];
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://eimigrante.pt/pt/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.4' id='contact-form-7-js'></script>
+<script type='text/javascript' src='https://www.google.com/recaptcha/api.js?render=6LcYgFopAAAAACokAhls2iqoyHEl6JJZli_QIzdg&#038;ver=3.0' id='google-recaptcha-js'></script>
+<script type='text/javascript' id='wpcf7-recaptcha-js-extra'>
+/* <![CDATA[ */
+var wpcf7_recaptcha = {"sitekey":"6LcYgFopAAAAACokAhls2iqoyHEl6JJZli_QIzdg","actions":{"homepage":"homepage","contactform":"contactform"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://eimigrante.pt/pt/wp-content/plugins/contact-form-7/modules/recaptcha/index.js?ver=5.4' id='wpcf7-recaptcha-js'></script>
+<script type='text/javascript' src='https://eimigrante.pt/pt/wp-includes/js/wp-embed.min.js?ver=5.7.12' id='wp-embed-js'></script>
+</body>
+</html>
